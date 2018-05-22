@@ -98,4 +98,4 @@ def usaBombingByMonthMapReduce():
     full_filename = os.path.join(app.config['UPLOAD_FOLDER'], 'usaBombingByMonthMapReduce.png')
     return render_template("wykres.html", user_image = full_filename)
 ```
-Utworzony [Wykres](https://github.com/BoskiOski/nosql-zaliczenie/blob/master/test.pdf).
+Utworzony [Wykres](https://github.com/BoskiOski/Blog/blob/gh-pages/zdjecie.png).
